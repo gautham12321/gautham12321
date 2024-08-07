@@ -1,21 +1,24 @@
 <h1 align="center">Oi, Im GauthamKrishna 👋 </h1>
 <h3 align="center">🚀 App Developer | Backend Dev | Open Source ♥ | 🚀</h3>
+<div align="center">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+ <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+</div>
 
 <div>
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
-  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
-  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
-  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
- <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
+
 
 
   
