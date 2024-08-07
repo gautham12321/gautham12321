@@ -17,5 +17,6 @@
   <h3> 💻 Languages and Tools </h3>
   <p>
   <img src="https://github.com/gautham12321/gautham12321/blob/main/Kotlin_Icon.png?raw=true" width="50"> <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
+    <img src="https://github.com/gautham12321/gautham12321/blob/main/1_dQvABiWzbE28OTPYjzElKw.png"   width="100">
   <p>
 </div> 
