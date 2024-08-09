@@ -1,4 +1,4 @@
-<h1 align="center">Oi, Im GauthamKrishna 👋 </h1>
+<h1 align="center">Oi, I'm Gauthamkrishna Binoy 👋 </h1>
 <h3 align="center">🚀 App Developer | Backend Dev | Open Source ♥ | 🚀</h3>
 <div align="center">
  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
