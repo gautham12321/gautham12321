@@ -1,5 +1,5 @@
-<h1 align="center">Oi, I'm Gauthamkrishna Binoy 👋 </h1>
-<h3 align="center">🚀 App Developer | Backend Dev | Open Source ♥ | 🚀</h3>
+<h1 align="center">I'm Gauthamkrishna Binoy 👋 </h1>
+
 <div align="center">
  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
@@ -17,22 +17,6 @@
  <img src="https://github.com/gautham12321/gautham12321/blob/main/sans.gif" width="50">
 </div>
 
-<div>
-
-
-
-  
-
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
-</div> 
-</div>
 
 <div>
   <h3> 💻 Languages and Tools </h3>
